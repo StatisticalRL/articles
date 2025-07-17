@@ -1,5 +1,5 @@
 # Articles
-Companion code to reproduce experiments from research articles
+Companion code to reproduce experiments from research articles on Statistical Reinforcement Learning
 
 
 # List of articles
